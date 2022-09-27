@@ -93,17 +93,11 @@ color: var(--main-color);
     float: right;
 }
 .section1 .pytext p{
-        background-image: url(/images/3 camels.jpg);
-        background-repeat: no-repeat;
-        background-size: 945px;
-        background-position-x: -10px;
-        background-position-y: -523px;
-        background-clip: text;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-size: 140px;
-        font-family: Pegypta;
-        color: transparent;
+       background-clip: text;
+                
+                font-size: 140px;
+                font-family: Pegypta;
+                color: #f4d69f;
 }
 .section1 img{
     position: absolute;
